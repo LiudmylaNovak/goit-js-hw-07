@@ -16,7 +16,7 @@ ul {
   list-style: none;
   padding: 0;
 }
-/* TASK 1 */
+/* tack-1 */
 .item-heading {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
@@ -39,14 +39,14 @@ ul {
   padding: 8px 16px;
   height: 40px;
 }
-/* TASK 2 */
+/* task-2 */
 .gallery {
   display: flex;
   flex-wrap: wrap;
   row-gap: 48px;
   column-gap: 24px;
 }
-/* TASK 3 */
+/* task-3 */
 .heading {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
@@ -66,7 +66,7 @@ ul {
   letter-spacing: 0.04em;
   color: #2e2f42;
 }
-/* TASK 4 */
+/* task-4 */
 .login-form {
   display: flex;
   flex-direction: column;
